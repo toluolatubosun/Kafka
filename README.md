@@ -6,7 +6,8 @@ This is a simple demo of Apache Kafka using Node.js.
 - Node.js
 - Docker
 
-[Medium Article]()
+## Need an Explanation?
+[Medium Article](https://medium.com/@toluolatubosun/apache-kafka-a-beginner-guide-9b75d1eec6a5)
 
 ## Setup
 
